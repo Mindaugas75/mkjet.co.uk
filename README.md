@@ -1,16 +1,4 @@
-Žinoma, Mindaugai! Štai tavo užbaigtos MKjet svetainės anglų kalbos versija – pilnas index-en.html failas, kurį gali naudoti tiesiogiai:
 
----
-
-💡 Kaip naudoti
-1. Nukopijuok žemiau esantį kodą į teksto redaktorių (pvz., Notepad ar VS Code).
-2. Išsaugok kaip index-en.html.
-3. Įkėlęs kartu su index.html (lietuviška versija), abiejų puslapių lankytojai galės laisvai perjungti kalbas.
-
----
-
-🌐 index-en.html failas
-`html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -154,8 +142,3 @@
 
 </body>
 </html>
-`
-
----
-
-Kai turėsi domeną (pvz., mkjet.co.uk), šį failą galėsi įkelti į talpinimo platformą, o aš tau galiu padėti tai padaryti. Nori, kad pridėčiau favicon arba įkeltume logotipą tiesiai į šį dizainą? Galiu paruošti ir tai! 💻✨
